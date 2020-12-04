@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeFetcherApp</string>
+    <string name="MainFragmentText">MainFragment</string>
+    <string name="FetchedFragmentText">FetchedFragment</string>
+</resources>
